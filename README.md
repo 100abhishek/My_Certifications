@@ -21,3 +21,4 @@ I specialize in creating insightful data visualizations and reports using Power 
 - **B.Tech in Chemical Engineering** (2024)
 - Completed courses on **Data Visualization with Power BI** and **Google Data Analytics**.
 - PwC Switzerland's Power BI course on Forage, demonstrating expertise in HR and sales data analysis.
+<br>
