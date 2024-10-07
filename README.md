@@ -14,7 +14,7 @@ I specialize in creating insightful data visualizations and reports using Power 
 - **Programming Languages:** Python, C/C++, Java, JavaScript
 - **Web Development:** React.js, Node.js, Bootstrap, HTML5, CSS3
 - **Data Tools:** Power BI, Tableau, SQL, Excel, AWS
-- **Cloud and DevOps:** Docker, Kubernetes, AWS
+- **Cloud and DevOps:** Docker, Kubernetes
 - **Machine Learning:** Hands-on experience in developing models for business insights.
 
 ## 📚 Education & Certifications
