@@ -9,7 +9,7 @@ I specialize in creating insightful data visualizations and reports using Power 
 
 - **Blinkit Sales Performance Dashboard:** Comprehensive analysis of sales performance, customer satisfaction, and inventory distribution using KPIs like Total Sales, Average Sales, and Average Rating.
 - **Amazon Prime Video Dashboard:** Detailed visualization of global TV shows and movies by genre, release year, and ratings.
-- **Call Center Query Analysis Report:** Insights into call center metrics like customer satisfaction, agent performance, and average speed of answer.
+- **Call Center Query Analysis Report:** Insights into call center metrics like customer satisfaction, agents performance, and average speed of answer.
 
 ## 🧠 Technical Skills
 - **Programming Languages:** Python, C/C++, Java, JavaScript
