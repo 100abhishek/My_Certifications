@@ -7,21 +7,22 @@ I'm Abhishek Singh, a versatile data analyst and chemical engineering graduate w
 ## 📊 Data Analysis Projects
 I specialize in creating insightful data visualizations and reports using Power BI. Here are some of the key projects I've worked on:
 
+- **Weather Data Automation:** Automated weather data collection for 100+ locations using Python, Beautiful Soup, and JSON, reducing manual effort by 80%.
 - **Blinkit Sales Performance Dashboard:** Comprehensive analysis of sales performance, customer satisfaction, and inventory distribution using KPIs like Total Sales, Average Sales, and Average Rating.
-- **Amazon Prime Video Dashboard:** Detailed visualization of global TV shows and movies by genre, release year, and ratings.
-- **Call Center Query Analysis Report:** Insights into call center metrics like customer satisfaction, agents performance, and average speed of answer.
+- **Digital Payments Analysis:** Optimized SQL queries and automated reporting for 100K+ transactions, identifying spending trends with 95% accuracy.
+
 
 ## 🧠 Technical Skills
-- **Programming Languages:** Python, C/C++, Java, JavaScript
-- **Web Development:** React.js, Node.js, Bootstrap, HTML5, CSS3
+- **Programming Languages:** Python, JavaScript (pandas, numpy, matplotlib)
+- **Data Tools:** Power BI, Tableau, SQL, Excel (Macros, VBA)
 - **Data Tools:** Power BI, Tableau, SQL, Excel, AWS
-- **Cloud and DevOps:** Docker, Kubernetes
-- **Machine Learning:** Hands-on experience in developing models for business insights.
+- **Databases:** MySQL, PostgreSQL, AWS S3, MongoDB, Amazon DynamoDB
+- **Cloud & Automation:** Docker, ETL, API Integration
 
 ## 📚 Education & Certifications
 - **B.Tech in Chemical Engineering** (2024)
-- Completed courses on **Data Visualization with Power BI** and **Google Data Analytics**.
-- PwC Switzerland's Power BI course on Forage, demonstrating expertise in HR and sales data analysis.
+- Completed courses on **Data Visualization with Power BI**, **Google Data Analytics**.
+- **PwC Switzerland's Power BI course on Forage**, and pursuing **AWS Cloud Practitioner Essentials** which demonstrates my expertise in data analytics.
 <br>
 
 
